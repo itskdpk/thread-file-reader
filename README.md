@@ -10,7 +10,7 @@ This is a multithreaded Java application that reads multiple `.txt` files in par
 
 ## 💻 Tech Used
 
-- Java 8+
+- Java 21
 - ExecutorService
 - BufferedReader
 
